@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a web app with header and footer and dynamic content area for routing, use web components with vanilla js only","md5":"9a464210844f39a482363b93d5ac0f1a"}]}
